@@ -1,4 +1,4 @@
-# simdjson-go (for vztpv/claujson-go)
+# simdjson-go 0.4.5  (for vztpv/claujson-go)
 	some function, struct (related Parsing) are changed or added from private to public.
 
 ## Introduction
